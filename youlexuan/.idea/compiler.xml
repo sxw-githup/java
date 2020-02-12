@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="youlexuan-manager-web" />
+        <module name="youlexuan-sellergoods-common" />
+        <module name="youlexuan-sellergoods-dao" />
+        <module name="youlexuan-sellergoods-interface" />
+        <module name="youlexuan-sellergoods-pojo" />
+        <module name="youlexuan-sellergoods-service" />
+        <module name="youlexuan-shop-interface" />
+        <module name="youlexuan-shop-service" />
+        <module name="youlexuan-shop-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="youlexuan-manager-web" target="1.7" />
+      <module name="youlexuan-parent" target="1.7" />
+      <module name="youlexuan-sellergoods-common" target="1.7" />
+      <module name="youlexuan-sellergoods-dao" target="1.7" />
+      <module name="youlexuan-sellergoods-interface" target="1.7" />
+      <module name="youlexuan-sellergoods-pojo" target="1.7" />
+      <module name="youlexuan-sellergoods-service" target="1.7" />
+      <module name="youlexuan-shop-interface" target="1.7" />
+      <module name="youlexuan-shop-service" target="1.7" />
+      <module name="youlexuan-shop-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

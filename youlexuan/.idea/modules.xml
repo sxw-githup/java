@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-manager-web/youlexuan-manager-web.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-manager-web/youlexuan-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-parent.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-common/youlexuan-sellergoods-common.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-common/youlexuan-sellergoods-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-dao/youlexuan-sellergoods-dao.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-dao/youlexuan-sellergoods-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-interface/youlexuan-sellergoods-interface.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-interface/youlexuan-sellergoods-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-pojo/youlexuan-sellergoods-pojo.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-pojo/youlexuan-sellergoods-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-service/youlexuan-sellergoods-service.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-service/youlexuan-sellergoods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-shop-interface/youlexuan-shop-interface.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-shop-interface/youlexuan-shop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-shop-service/youlexuan-shop-service.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-shop-service/youlexuan-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-shop-web/youlexuan-shop-web.iml" filepath="$PROJECT_DIR$/youlexuan-parent/youlexuan-shop-web/youlexuan-shop-web.iml" />
+    </modules>
+  </component>
+</project>

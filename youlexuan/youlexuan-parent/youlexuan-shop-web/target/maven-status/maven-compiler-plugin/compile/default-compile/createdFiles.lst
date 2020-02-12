@@ -1,0 +1,9 @@
+com\offcn\controller\LoginController.class
+com\offcn\controller\ItemCatController.class
+com\offcn\controller\GoodsDescController.class
+com\offcn\controller\GoodsController.class
+com\offcn\controller\TypeTemplateController.class
+com\offcn\controller\UserController.class
+com\offcn\controller\ItemController.class
+com\offcn\authentication\UserDetailServiceImpl.class
+com\offcn\controller\UploadFileController.class

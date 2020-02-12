@@ -1,0 +1,4 @@
+com\offcn\service\impl\ItemServiceImpl.class
+com\offcn\service\impl\GoodsDescServiceImpl.class
+com\offcn\service\impl\UserServiceImpl.class
+com\offcn\service\impl\GoodsServiceImpl.class

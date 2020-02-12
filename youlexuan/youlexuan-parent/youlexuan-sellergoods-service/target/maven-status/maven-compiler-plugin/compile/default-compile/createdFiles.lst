@@ -1,0 +1,6 @@
+com\offcn\service\impl\SpecificationOptionServiceImpl.class
+com\offcn\service\impl\BrandServiceImpl.class
+com\offcn\service\impl\TypeTemplateServiceImpl.class
+com\offcn\service\impl\SpecificationServiceImpl.class
+com\offcn\service\impl\SellerServiceImpl.class
+com\offcn\service\impl\ItemCatServiceImpl.class

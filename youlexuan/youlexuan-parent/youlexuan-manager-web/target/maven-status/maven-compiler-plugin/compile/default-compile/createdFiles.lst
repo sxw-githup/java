@@ -1,0 +1,7 @@
+com\offcn\controller\LoginController.class
+com\offcn\controller\ItemCatController.class
+com\offcn\controller\SellerController.class
+com\offcn\controller\TypeTemplateController.class
+com\offcn\controller\SpecificationController.class
+com\offcn\controller\BrandController.class
+com\offcn\controller\SpecificationOptionController.class
